@@ -9,41 +9,39 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: AdsLectic Insights
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: SEO, AI Search, PPC & Digital Growth Insights
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- 
+  AdsLectic Insights is a digital marketing publication covering SEO, AI Search Optimization, PPC advertising, Local SEO, Shopify SEO, content marketing, and business growth strategies.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://adslectic.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: adslectic
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: adslectic
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  name: AdsLectic
+  email: info@adslectic.com 
+  
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://adslectic.com
+    - https://github.com/adslectic
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/ads_lectic
+    - https://www.linkedin.com/company/adslectic/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -151,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/adslectic-insights"
 
 # ------------ The following options are not recommended to be modified ------------------
 
