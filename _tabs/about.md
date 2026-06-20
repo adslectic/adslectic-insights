@@ -29,7 +29,7 @@ AdsLectic is a performance-focused digital marketing agency helping businesses g
 
 - Website: https://adslectic.com
 - Services: https://adslectic.com/services
-- Blog: https://adslectic.com/blogs
+- Blog: https://adslectic.com/blog
 - GitHub: https://github.com/adslectic
 
 ## Our Mission
